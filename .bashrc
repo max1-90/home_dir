@@ -108,3 +108,4 @@ fi
 #    . ~/.bash_aliases
 #fi
 PATH="${PATH}"
+export EDITOR=vim
